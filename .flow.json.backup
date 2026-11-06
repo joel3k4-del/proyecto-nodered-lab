@@ -113,7 +113,7 @@
         "id": "sw_temp",
         "type": "switch",
         "z": "tab_ej1",
-        "name": "Temp > 300",
+        "name": "Temp > 50",
         "property": "payload",
         "propertyType": "msg",
         "rules": [
